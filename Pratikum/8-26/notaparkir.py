@@ -1,0 +1,12 @@
+nomor_polisi = input("Nomor polisi : ")
+jenis_kendaraan = input("Jenis kendaraan : ")
+total_biaya_parkir = float(input("Total biaya parkir : "))
+
+print('#########################################')
+print('#    Sistem Parkir Otomatis Mall XYZ    #')
+print('#         Nota Pembayaran Parkir        #')
+print('#########################################')
+print(f'Nomor Polisi: {nomor_polisi}')
+print(f'Jenis kendaraan : {jenis_kendaraan}')
+print(f'Total biaya parkir: Rp{total_biaya_parkir:.2f}')
+print('#########################################')
