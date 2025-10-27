@@ -9,7 +9,7 @@
 def sapa(nama:str = 'Enrico', umur = '12', gender = 'L'):
     print(nama)
     print(umur)
-    print(gender)
+    print(gender, 'halo')
 
 # sapa('Willson',, 'M')
 
