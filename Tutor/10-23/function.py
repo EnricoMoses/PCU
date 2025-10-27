@@ -14,4 +14,5 @@ def sapa(nama:str = 'Enrico', umur = '12', gender = 'L'):
 # sapa('Willson',, 'M')
 
 print()
+print('halo michael')
 
