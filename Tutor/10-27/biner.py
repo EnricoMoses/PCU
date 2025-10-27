@@ -1,0 +1,1 @@
+print(format(101, '08b'))
