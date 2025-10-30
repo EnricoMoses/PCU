@@ -13,17 +13,17 @@ def printangka(angka):
     print(angka)
 
 
-# printangka(5)
+printangka(5)
 
-arr = [1,1]
-def fibbonaci(n):
-    if n == 0:
-        return 0
-    if n == 1:
-        return 1
-    if len(arr) == n:
-        return arr[n-1]
-    return fibbonaci(n-1) + fibbonaci(n-2)
-
-
-print(fibbonaci(7))
+# arr = [1,1]
+# def fibbonaci(n):
+#     if n == 0:
+#         return 0
+#     if n == 1:
+#         return 1
+#     if len(arr) == n:
+#         return arr[n-1]
+#     return fibbonaci(n-1) + fibbonaci(n-2)
+#
+#
+# print(fibbonaci(7))
