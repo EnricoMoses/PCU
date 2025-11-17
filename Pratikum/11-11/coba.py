@@ -7,8 +7,11 @@ data = {"Andi": 85,
 # print(max(data.values()))
 # print(data.items())
 # print(max(data.keys()))
+#
+# for nama, nilai in data.items():
+#     print(nama, nilai)
+#
+# print(data.items())
 
-for nama, nilai in data.items():
-    print(nama, nilai)
-
-print(data.items())
+for nama in data:
+    print(nama, data[nama])
