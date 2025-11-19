@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="praktikum module">
+      <change afterPath="$PROJECT_DIR$/Responsi/11-19/converter_project/converter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsi/11-19/converter_project/converter/suhu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsi/11-19/converter_project/converter/suhu/convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsi/11-19/converter_project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsi/11-19/mathops_project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsi/11-19/mathops_project/mathops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsi/11-19/mathops_project/mathops/basic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsi/11-19/mathops_project/mathops/basic/kurang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsi/11-19/mathops_project/mathops/basic/tambah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Responsi/11-19/tabulate_project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Studio/9-dict/string_value_benar.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EnricoMoses&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EnricoMoses/PCU.git&quot;,
+    &quot;accountId&quot;: &quot;a741d7a9-408c-4872-9c9d-d0df4985f28e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="33MeDqFEsmcyM3UHTpeMU13huiM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Bank.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GSP-Dua-Lingkaran.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L-K-persegi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aktivitas_pengguna.executor&quot;: &quot;Run&quot;,
+    &quot;Python.amstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analisa-dictinoary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.balik-kata-unik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bantu-joni.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bensin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.berburu-diskon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bilangan-prima.executor&quot;: &quot;Run&quot;,
+    &quot;Python.biner.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bitwise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.buah.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bubble-sort-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bubble-sort-2d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bubble-sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bubble-sort3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.c14250038_PR9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clean_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coba.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coba2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cobaa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combinasi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.concatanate-str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.concet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.condense-the-capture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.couplecounts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data-karyawan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_mahasiswa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_nilai.executor&quot;: &quot;Run&quot;,
+    &quot;Python.default-p.executor&quot;: &quot;Run&quot;,
+    &quot;Python.depth-power-super-digit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diag-matr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diagonal_utama.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dic, tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.digit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.diskon-belanja.executor&quot;: &quot;Run&quot;,
+    &quot;Python.doni-ilmuan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dua-list-terutut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.faktorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.familyformula.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibo-loop1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frekuensi-huruf-tbnyk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func-factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func-hitung-genap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func-prima.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gabung-urut-kalimat-u.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ganjil-genap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.glo-loc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grafik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.head-tail-rekr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hitung-balok.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hitung-rata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.importtt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input-mahasiswa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.investment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.items.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jrak-dua-titik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jumlah-per-baris.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kasir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.konv-mata-uang.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kwhlistrik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.labirin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.led-udin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.left-flip-number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list-2d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list-comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list-inp-2d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list-muncul.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loc-glo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lovely-numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.luas-bangun-datar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map-m.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math_tools.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix-pathfinding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix-pathfinding2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix-r-90.executor&quot;: &quot;Run&quot;,
+    &quot;Python.matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mbohh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.memutar_segitiga.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mirror-triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nested_sum.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.nilai.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nilai_ujian.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numberlooping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numppp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpyku.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operasi-matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pangkat-dua.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pangkat-penjumlahan.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.pangram_isomorfik.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parfum-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parfum-bf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parfum_pak_ehaj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pascal.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.pattern-angka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perkalian-matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perkalian_cross.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perkalian_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.petani-malang.executor&quot;: &quot;Run&quot;,
+    &quot;Python.piramida_angka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pola-naik-turun-list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ppp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pretest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print-k.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print-m-n-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.r-kecantikan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rekr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rotate-array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rumus-abc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scope.executor&quot;: &quot;Run&quot;,
+    &quot;Python.segitiga--.executor&quot;: &quot;Run&quot;,
+    &quot;Python.segitiga-kosong.executor&quot;: &quot;Run&quot;,
+    &quot;Python.segitiga.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smart-city.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal_susah.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal_susah2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal_uas_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soal_uas_no_1_raw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_value_benar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.suhu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tambahh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tanah-pak-yohan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test-bublle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tic-tac-toe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tiket-konser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.toko_produk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.total-belanja.executor&quot;: &quot;Run&quot;,
+    &quot;Python.triaglee.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trigonometri.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try-catch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tugas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.univ_nilai_ujian.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uts-24-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uts-24-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uts-24-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.validasi-login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.volume-kaleng-soda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x-pangkat-y.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/Documents/Code/PCU&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Documents\Coding2025\PCU\Responsi\10-1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Documents\Code\PCU\Responsi\11-19\mathops_project\mathops" />
+      <recent name="C:\Users\asus\Documents\Code\PCU\Responsi\11-19\mathops_project" />
+      <recent name="C:\Users\asus\Documents\Code\PCU\Responsi" />
+      <recent name="C:\Users\asus\Documents\Code\PCU\Kuliah\11-17\toolss" />
+      <recent name="C:\Users\asus\Documents\Code\PCU\Kuliah\11-17" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="" />
+      <created>1759131251375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759131251375</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Merge branch 'branch2'">
+      <option name="closed" value="true" />
+      <created>1761545495748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761545495748</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge branch 'branch2'">
+      <option name="closed" value="true" />
+      <created>1761804032144</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761804032144</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge branch 'branch2'">
+      <option name="closed" value="true" />
+      <created>1762099611493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762099611493</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tugas studio rekursif">
+      <option name="closed" value="true" />
+      <created>1762226107655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762226107655</updated>
+    </task>
+    <task id="LOCAL-00005" summary="responsi try catch">
+      <option name="closed" value="true" />
+      <created>1762411492842</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762411492842</updated>
+    </task>
+    <task id="LOCAL-00006" summary="tutor uas tahun lalu">
+      <option name="closed" value="true" />
+      <created>1762755884412</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762755884412</updated>
+    </task>
+    <task id="LOCAL-00007" summary="kuliah modulee">
+      <option name="closed" value="true" />
+      <created>1762850362445</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762850362445</updated>
+    </task>
+    <task id="LOCAL-00008" summary="praktikum dictionary">
+      <option name="closed" value="true" />
+      <created>1762908818182</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762908818182</updated>
+    </task>
+    <task id="LOCAL-00009" summary="kuliah hari kamis">
+      <option name="closed" value="true" />
+      <created>1763350294511</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763350294511</updated>
+    </task>
+    <task id="LOCAL-00010" summary="kuliah hari senin module package numpy">
+      <option name="closed" value="true" />
+      <created>1763367147426</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763367147426</updated>
+    </task>
+    <task id="LOCAL-00011" summary="praktikum module">
+      <option name="closed" value="true" />
+      <created>1763471544686</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763471544686</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tutor 10/27" />
+    <MESSAGE value="Merge branch 'branch2'" />
+    <MESSAGE value="tugas studio rekursif" />
+    <MESSAGE value="responsi try catch" />
+    <MESSAGE value="tutor uas tahun lalu" />
+    <MESSAGE value="kuliah modulee" />
+    <MESSAGE value="praktikum dictionary" />
+    <MESSAGE value="kuliah hari kamis" />
+    <MESSAGE value="kuliah hari senin module package numpy" />
+    <MESSAGE value="praktikum module" />
+    <option name="LAST_COMMIT_MESSAGE" value="praktikum module" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tutor/10-2/uts-24-1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Studio/6-list2/diagonal_utama.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Studio/6-list2/petani-malang.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tutor/10-2/palindrome.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tutor/10-2/segitiga.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tutor/10-2/list-inp-2d.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tutor/10-2/list-inp-2d.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Studio/3-loop/familyformula.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Studio/3-loop/lovely-numbers.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pratikum/10-21/tic-tac-toe.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pratikum/10-21/labirin.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pratikum/10-21/labirin.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pratikum/10-21/tic-tac-toe.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pratikum/10-21/tic-tac-toe.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Kuliah/10-20/function.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Studio/7-function/hitung-balok.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pratikum/10-28/depth-power-super-digit.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Responsi/10-29/nested_sum.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Studio/8-rekursi/pangkat-penjumlahan.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Studio/8-rekursi/amstrong.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Studio/8-rekursi/pascal.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
