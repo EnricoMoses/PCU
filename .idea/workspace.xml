@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="praktikum module">
-      <change afterPath="$PROJECT_DIR$/Responsi/11-19/converter_project/converter/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsi/11-19/converter_project/converter/suhu/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsi/11-19/converter_project/converter/suhu/convert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsi/11-19/converter_project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsi/11-19/mathops_project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsi/11-19/mathops_project/mathops/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsi/11-19/mathops_project/mathops/basic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsi/11-19/mathops_project/mathops/basic/kurang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsi/11-19/mathops_project/mathops/basic/tambah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Responsi/11-19/tabulate_project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Studio/9-dict/string_value_benar.py" afterDir="false" />
+    <list default="true" id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="responsi module">
+      <change afterPath="$PROJECT_DIR$/Kuliah/11-17/main_pack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuliah/11-17/modulemath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuliah/11-17/my_package/package1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuliah/11-17/my_package/package1/my_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuliah/11-17/my_package/package2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuliah/11-17/my_package/package2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuliah/11-17/tools/mypack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pratikum/11-18/Cryptex_Project/cryptex_pkg/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pratikum/11-18/Cryptex_Project/cryptex_pkg/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +132,7 @@
     &quot;Python.lovely-numbers.executor&quot;: &quot;Run&quot;,
     &quot;Python.luas-bangun-datar.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_pack.executor&quot;: &quot;Run&quot;,
     &quot;Python.map-m.executor&quot;: &quot;Run&quot;,
     &quot;Python.math_tools.executor&quot;: &quot;Run&quot;,
     &quot;Python.matrix-pathfinding.executor&quot;: &quot;Run&quot;,
@@ -143,6 +142,8 @@
     &quot;Python.mbohh.executor&quot;: &quot;Run&quot;,
     &quot;Python.memutar_segitiga.executor&quot;: &quot;Run&quot;,
     &quot;Python.mirror-triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modulemath.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_math.executor&quot;: &quot;Run&quot;,
     &quot;Python.nested_sum.executor&quot;: &quot;Debug&quot;,
     &quot;Python.nilai.executor&quot;: &quot;Run&quot;,
     &quot;Python.nilai_ujian.executor&quot;: &quot;Run&quot;,
@@ -175,6 +176,7 @@
     &quot;Python.rotate-array.executor&quot;: &quot;Run&quot;,
     &quot;Python.rumus-abc.executor&quot;: &quot;Run&quot;,
     &quot;Python.run_cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_package2_main.executor&quot;: &quot;Run&quot;,
     &quot;Python.scope.executor&quot;: &quot;Run&quot;,
     &quot;Python.segitiga--.executor&quot;: &quot;Run&quot;,
     &quot;Python.segitiga-kosong.executor&quot;: &quot;Run&quot;,
@@ -212,6 +214,7 @@
     &quot;Python.uts-24-2.executor&quot;: &quot;Run&quot;,
     &quot;Python.uts-24-3.executor&quot;: &quot;Run&quot;,
     &quot;Python.validasi-login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vigenere.executor&quot;: &quot;Run&quot;,
     &quot;Python.volume-kaleng-soda.executor&quot;: &quot;Run&quot;,
     &quot;Python.x-pangkat-y.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -228,12 +231,68 @@
       <recent name="C:\Users\asus\Documents\Coding2025\PCU\Responsi\10-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Documents\Code\PCU\Kuliah\11-17\my_package\package1" />
       <recent name="C:\Users\asus\Documents\Code\PCU\Responsi\11-19\mathops_project\mathops" />
       <recent name="C:\Users\asus\Documents\Code\PCU\Responsi\11-19\mathops_project" />
       <recent name="C:\Users\asus\Documents\Code\PCU\Responsi" />
       <recent name="C:\Users\asus\Documents\Code\PCU\Kuliah\11-17\toolss" />
-      <recent name="C:\Users\asus\Documents\Code\PCU\Kuliah\11-17" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.run_package2_main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PCU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kuliah/11-17/my_package/package2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kuliah/11-17/my_package/package2/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_package2_main" type="PythonConfigurationType" factoryName="Python">
+      <module name="PCU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\asus\Documents\Code\PCU\Kuliah\11-17" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="my_package.package2.main" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.run_package2_main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -338,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763471544686</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="responsi module">
+      <option name="closed" value="true" />
+      <created>1763528314918</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1763528314918</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -352,7 +419,8 @@
     <MESSAGE value="kuliah hari kamis" />
     <MESSAGE value="kuliah hari senin module package numpy" />
     <MESSAGE value="praktikum module" />
-    <option name="LAST_COMMIT_MESSAGE" value="praktikum module" />
+    <MESSAGE value="responsi module" />
+    <option name="LAST_COMMIT_MESSAGE" value="responsi module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
