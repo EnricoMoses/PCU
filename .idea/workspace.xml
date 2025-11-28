@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="tutor module package">
-      <change afterPath="$PROJECT_DIR$/Kuliah/11-24/soal-string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kuliah/11-24/stringg.py" afterDir="false" />
+    <list default="true" id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="tutor string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -292,8 +290,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.run_package2_main" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.run_package2_main" />
     </list>
     <recent_temporary>
       <list>
@@ -428,7 +426,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764131505186</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="tutor string">
+      <option name="closed" value="true" />
+      <created>1764253857402</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764253857403</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -444,7 +450,8 @@
     <MESSAGE value="praktikum module" />
     <MESSAGE value="responsi module" />
     <MESSAGE value="tutor module package" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutor module package" />
+    <MESSAGE value="tutor string" />
+    <option name="LAST_COMMIT_MESSAGE" value="tutor string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

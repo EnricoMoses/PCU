@@ -3,6 +3,16 @@ var = 'aslfkhasflda'
 # result = map(lambda x: x + 'Aku', var)
 result = map(str.upper, var)
 
-re
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
+print()
 print(list(result))
 
