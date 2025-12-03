@@ -5,4 +5,4 @@ index = 1
 for i in a:
     if a.count(i) > 1:
         index += 1
-    if a.count(i)
+    # if a.count(i)
