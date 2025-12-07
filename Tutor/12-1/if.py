@@ -35,3 +35,7 @@ elif nilai >= 60:
     print('Grade D')
 else:
     print('Grade E')
+
+    print()
+    print()
+    print()
