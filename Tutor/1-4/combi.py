@@ -39,7 +39,20 @@ from itertools import combinations
 # # print(sama)
 # print(max(len(w1), len(w2)))
 
-daftar = ['Sistem informasi akademik dan sistem informasi keuangan kampus.', 'Sistem informasi akademik berbasis web.', 'Aplikasi data mahasiswa berbasis python.']
+# daftar = ['Sistem informasi akademik dan sistem informasi keuangan kampus.', 'Sistem informasi akademik berbasis web.', 'Aplikasi data mahasiswa berbasis python.']
+#
+# for i, j in combinations(daftar, 2):
+#     print(i, j)
 
-for i, j in combinations(daftar, 2):
-    print(i, j)
+# i = 0
+#
+# while True:
+#     print(i)
+#     i += 1
+#     if i == 10:
+#         break
+
+nama = '1,2'
+
+parts = nama.split(',')
+print(parts)
