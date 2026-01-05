@@ -52,7 +52,77 @@ from itertools import combinations
 #     if i == 10:
 #         break
 
-nama = '1,2'
+# nama = '1,2'
+#
+# parts = nama.split(',')
+# print(parts)
 
-parts = nama.split(',')
-print(parts)
+# TipeBarang = ('Makanan', 'Minuman', 'Alat_Tulis', 'Alat_Makan')
+#
+# for i, t in enumerate(TipeBarang):
+#     print(i, t)
+
+# print(TipeBarang[5])
+#
+# Iventory = {
+#     'mie instan' : {
+#         'jumlah_stok': 40,
+#         'harga_rata': 1200.5,
+#         'tipe_barang': 'Makanan'
+#     },
+#     'kopi tubruk': {
+#         'jumlah_stok': 40,
+#         'harga_rata': 1200.5,
+#         'tipe_barang': 'Makanan'
+#     },
+# }
+#
+# print(Iventory['mie instan']['jumlah_stok'])
+#
+# for nama, data in Iventory.items():
+#     print(nama, data['jumlah_stok'])
+#
+# print(Iventory['kopi tubruk'])
+
+listt = [[85, 'Blora'], [90, 'Purwodadi'], [100, 'Malang']]
+print(listt[0][1])
+print(listt[1][1])
+
+data_mahasiswa = {
+    'jojo': {
+        'nilai': 85,
+        'asal': 'Blora'
+    },
+    'michael': {
+        'nilai': 90,
+        'asal': 'Purwodadi'
+    },
+    'kevin':{
+        'nilai': 100,
+        'asal': 'Malang'
+    },
+}
+
+print(data_mahasiswa['kevin']['asal'])
+
+data_mahasiswa['Alex'] = {
+    'nilai': 70,
+    'asal': 'Semarang'
+}
+
+# # print(data_mahasiswa)
+#
+# for nama, data in data_mahasiswa.items():
+#     if data['nilai'] > 85:
+#         print(nama, data)
+#
+# if 'Enrico' in data_mahasiswa:
+#     print(data_mahasiswa['Enrico'])
+
+# data = data_mahasiswa['Alex']
+# data['nilai'] = 100
+# data['asal'] = 'Jakarta'
+
+data_mahasiswa['Alex']['nilai'] = 100
+data_mahasiswa['Alex']['asal'] = 'Jakarta'
+print(data_mahasiswa)
