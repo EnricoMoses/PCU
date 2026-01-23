@@ -8,6 +8,6 @@
 # print(max([2,3,4,5,6,7,10]))
 
 persen = 50.8389369623
-print(())
+print(((())))
 print(f'{persen:.1f}')
 
