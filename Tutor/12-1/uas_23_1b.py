@@ -1,7 +1,6 @@
 n = int(input())
 j1 = int(input())
 j2 = int(input())
-j3 = int(input())
 
 bisa = False
 for i in range(j1 + 1):
