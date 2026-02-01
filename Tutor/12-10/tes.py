@@ -3,3 +3,4 @@ print(
     'ha;'
     'dsf'
 )
+(((((print())))))

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="tutor string">
+    <list default="true" id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="interview epiclair">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +227,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/Documents/Code/PCU&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/Documents/Code/PCU/AP-Python&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
@@ -442,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764320751001</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="interview epiclair">
+      <option name="closed" value="true" />
+      <created>1769789306684</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1769789306684</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -459,7 +467,8 @@
     <MESSAGE value="responsi module" />
     <MESSAGE value="tutor module package" />
     <MESSAGE value="tutor string" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutor string" />
+    <MESSAGE value="interview epiclair" />
+    <option name="LAST_COMMIT_MESSAGE" value="interview epiclair" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
