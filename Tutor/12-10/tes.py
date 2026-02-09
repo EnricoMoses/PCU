@@ -3,4 +3,13 @@ print(
     'ha;'
     'dsf'
 )
-(((((print())))))()((()))((__((()()()))))
+print()
+print(
+    'ha;'
+    'dsf'
+)
+print()
+print(
+    'ha;'
+    'dsf'
+)
