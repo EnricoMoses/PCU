@@ -290,8 +290,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.run_package2_main" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
