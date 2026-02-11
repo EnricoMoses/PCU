@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="interview epiclair">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutor/12-10/tes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tutor/12-10/tes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,6 +206,7 @@
     &quot;Python.suhu.executor&quot;: &quot;Run&quot;,
     &quot;Python.tambahh.executor&quot;: &quot;Run&quot;,
     &quot;Python.tanah-pak-yohan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tes.executor&quot;: &quot;Run&quot;,
     &quot;Python.test-bublle.executor&quot;: &quot;Run&quot;,
     &quot;Python.tic-tac-toe.executor&quot;: &quot;Run&quot;,
     &quot;Python.tiket-konser.executor&quot;: &quot;Run&quot;,
@@ -228,7 +230,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/Documents/Code/PCU/AP-Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -450,7 +452,31 @@
       <option name="project" value="LOCAL" />
       <updated>1769789306684</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="interview epiclair">
+      <option name="closed" value="true" />
+      <created>1770650249181</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1770650249181</updated>
+    </task>
+    <task id="LOCAL-00019" summary="interview epiclair">
+      <option name="closed" value="true" />
+      <created>1770650308125</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1770650308125</updated>
+    </task>
+    <task id="LOCAL-00020" summary="interview epiclair">
+      <option name="closed" value="true" />
+      <created>1770650399234</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1770650399234</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
