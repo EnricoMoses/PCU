@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="interview epiclair" />
+    <list default="true" id="823c247c-209f-42d1-ac87-70ea16200cab" name="Changes" comment="interview epiclair">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutor/12-10/tes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tutor/12-10/tes.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,8 +292,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.run_package2_main" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -481,7 +484,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770821823151</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="interview epiclair">
+      <option name="closed" value="true" />
+      <created>1772556338665</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1772556338665</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
